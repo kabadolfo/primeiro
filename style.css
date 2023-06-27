@@ -1,0 +1,42 @@
+/*SELETOR UNIVERSAL*/
+    *{ MARGIN: 0px;
+    padding: 0px;
+}
+
+
+.cabecalho{
+
+    backgound-color: rgba(6,19,95,0.7005);
+
+    color: white;
+
+    display: flex;
+
+    padding: 30px;
+
+    font-size: 24px;
+
+    justify-content: space-around;
+
+
+}
+
+
+.cabecalho-item{
+
+    width: 150px;
+
+    heinght: 150px;
+
+}
+
+
+.cabecalho-item{
+
+    display: inline-block;
+
+    padding: 0 100px;
+
+
+}
+
