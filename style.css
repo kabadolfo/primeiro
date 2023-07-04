@@ -6,7 +6,7 @@
 
 .cabecalho{
 
-    backgound-color: rgba(6,19,95,0.7005);
+    background-color: rgba(6,19,95,0.7005);
 
     color: white;
 
@@ -22,16 +22,16 @@
 }
 
 
-.cabecalho-item{
+.cabecalho-imagem{
 
     width: 150px;
-
-    heinght: 150px;
+    height: 150px;
+    
 
 }
 
 
-.cabecalho-item{
+.cabecalho-imagem{
 
     display: inline-block;
 
@@ -39,4 +39,21 @@
 
 
 }
+
+.turma-titulo{
+
+    padding: bottom 30px;
+
+    text-align: center;
+
+}
+
+.turma-imagem{
+
+    width: 300px;
+    
+}
+
+    
+
 
