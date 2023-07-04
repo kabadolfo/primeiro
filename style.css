@@ -54,6 +54,38 @@
     
 }
 
+/*SELETOR UNIVERSAL*/
+*{ margin: 0px;
+padding: 0px;}    
+
+/*CORPO DA PÁGINA*/
+body{              
+  font-family: sans-serif;}
+
+  /*SECÇÂO CABEÇALHO*/
+
+.cabecalho{
+        background-color: rgba(6,19,95,0.7005);
+       display: flex;
+       padding: 30px;
+       font-size: 24px;
+       justify-content: space-around;}
+.cabecalho-imagem{
+       width: 100px;
+       height:100px;}
+
+
+.cabecalho-item{
     
+    display: inline-block;
+    padding: 0 100px;
+    text-decoration: underline;}
+
+/*SECÇÃO TURMA*/
+
+.turma{
+
+    background-image: linear-gradient(rgba(6,19,95,0.705), rgba(182,188,221, 0.705));
+    padding:30px;}
 
 
